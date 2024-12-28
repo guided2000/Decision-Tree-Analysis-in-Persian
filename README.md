@@ -15,7 +15,7 @@ This project explores the concepts and applications of decision trees in machine
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Decision_Tree_Analysis_Persian.git
+   git clone https://github.com/guided2000/Decision_Tree_Analysis_Persian.git
    ```  
 2. Open the Jupyter Notebook:  
    ```bash
